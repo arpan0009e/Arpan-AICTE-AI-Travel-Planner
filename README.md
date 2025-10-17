@@ -5,17 +5,13 @@
 
 An intelligent web application that generates personalized, budget-friendly travel itineraries using the Google Gemini AI and Google Maps Platform.
 
-## 🚀 Live Demo
-
-<img width="1898" height="892" alt="Screenshot 2025-10-13 234012" src="https://github.com/user-attachments/assets/4b226fbf-b131-4cba-9256-9ab0062b804b" />
-
-
 ---
 
 ## 📸 Application Preview
 
 
-*A screenshot of the AI Travel Planner showing the sidebar for user inputs and a generated itinerary with a map.*
+<img width="1898" height="892" alt="Screenshot 2025-10-13 234012" src="https://github.com/user-attachments/assets/31aec7d4-1c1d-49dd-b879-9c56a9dc9b75" />
+
 
 ---
 
