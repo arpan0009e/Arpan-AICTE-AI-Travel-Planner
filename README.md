@@ -7,7 +7,8 @@ An intelligent web application that generates personalized, budget-friendly trav
 
 ## 🚀 Live Demo
 
-[**You can view and test the live application here!**](https://your-streamlit-app-url.streamlit.app/)
+<img width="1898" height="892" alt="Screenshot 2025-10-13 234012" src="https://github.com/user-attachments/assets/4b226fbf-b131-4cba-9256-9ab0062b804b" />
+
 
 ---
 
@@ -45,11 +46,4 @@ Planning trips can be time-consuming and generic. This project solves that probl
 
 ---
 
-## ⚙️ Setup and Installation
 
-To run this project locally, follow these steps:
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/ai-travel-planner.git](https://github.com/your-username/ai-travel-planner.git)
-cd ai-travel-planner
